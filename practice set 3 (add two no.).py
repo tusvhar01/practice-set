@@ -1,0 +1,5 @@
+l1=int(input("Enter 1st no.: "))
+l2=int(input("Enter 2nd no.: "))
+l3=(l1+l2)
+print(f"sum of {l1} and {l2} is {l3}")
+print("sum of",l1,"and",l2,"is",l3)
