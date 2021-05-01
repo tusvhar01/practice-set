@@ -1,0 +1,6 @@
+t=eval(input("Enter the no.with comma:"))
+print("no. entered by user is",t)
+l=list(t)
+l.reverse()
+t1=tuple(l)
+print("Reverse of tuple is:",t1)
